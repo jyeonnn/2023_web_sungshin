@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
+
+*{
+    font-family: pretendard;
+}
+
+.main{
+    font-family: pretendard-semibold;
+    font-size: 25pt;
+    color: rgb(22, 22, 22);
+    margin: 20px auto;
+    margin-left: 20px;
+}
+
+.footercontents{
+    background-color: rgb(61, 61, 61);
+    color: white;;
+    font-family: pretendard-light;
+    padding: auto;
+    padding-left: auto;
+}
